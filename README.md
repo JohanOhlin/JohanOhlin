@@ -1,6 +1,6 @@
 ## Hi, I'm Johan. I build things.
 
-Exploring new technologies is a passion of mine; I struggle to find something that I can classify as dull. Originally from Sweden, I now live and work in London, UK. I had the opportunity to co-found my first startup in 2004 and enjoy working for companies where creativity is appreciated. The technology stack closest to my heart is currently serverless in Azure and Cosmos DB, TypeScript, React and the Jamstack.
+Exploring new technologies is a passion of mine; I struggle to find something that I can classify as dull. Originally from Sweden, I now work in London, UK. I had the opportunity to co-found my first startup in 2004 and enjoy working for companies where creativity is appreciated. The technology stack closest to my heart is currently serverless in Azure and Cosmos DB, TypeScript, React and the Jamstack.
 
 **I'm currently working on**
 - Helping the hospitality industry [reaching their customers](https://www.iris.net/) in a locked-down world
