@@ -6,7 +6,7 @@ Exploring new technologies is a passion of mine; I struggle to find something th
 - Helping the hospitality industry [reaching their customers](https://www.iris.net/) in a locked-down world
 
 **In my spare time I**
-- Study for the AZ-204 exam
+- Study for the AZ-303 exam
 - Work in my garden, renovating my sheds and replacing my fence
 - Try to master the art of sourdough bread making
 
